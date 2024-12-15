@@ -3,7 +3,7 @@
 
 
 ## Abilities:
-- [ ] When you make a move to configure, optimize, hack, or disrupt an electronic system, add +1. On a weak hit, you can choose to press your luck. If you do, reroll all dice and add +2 (instead of +1).
+- [x] When you make a move to configure, optimize, hack, or disrupt an electronic system, add +1. On a weak hit, you can choose to press your luck. If you do, reroll all dice and add +2 (instead of +1).
 
 - [ ] When you [Withstand Damage](Withstand_Damage.md) and score a miss, you may attempt to reroute power or reboot critical systems. If you do, first [Lose Momentum](Lose_Momentum.md) (-2). Then, reroll all dice, add +wits instead of +integrity, and count a weak hit as a miss.
 

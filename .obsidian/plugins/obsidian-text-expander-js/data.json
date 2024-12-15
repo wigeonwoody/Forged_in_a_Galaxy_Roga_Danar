@@ -91,15 +91,15 @@
       "address": "99_Meta/Scripts/une_ui.sfile.md"
     },
     {
-      "enabled": true,
+      "enabled": false,
       "address": "99_Meta/Scripts/cards_pileviewer.sfile.md"
     },
     {
-      "enabled": true,
+      "enabled": false,
       "address": "99_Meta/Scripts/cards_ui.sfile.md"
     },
     {
-      "enabled": true,
+      "enabled": false,
       "address": "99_Meta/Scripts/clips_ui.sfile.md"
     },
     {
@@ -126,6 +126,10 @@
   "shortcuts": "",
   "buttonView": {
     "visible": true,
-    "groups": {}
+    "groups": {
+      "Group 01": {
+        "buttons": []
+      }
+    }
   }
 }

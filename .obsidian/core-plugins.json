@@ -14,7 +14,7 @@
   "slash-command": false,
   "editor-status": true,
   "markdown-importer": false,
-  "zk-prefixer": false,
+  "zk-prefixer": true,
   "random-note": false,
   "outline": true,
   "word-count": true,
@@ -23,7 +23,7 @@
   "workspaces": false,
   "file-recovery": true,
   "publish": false,
-  "sync": false,
+  "sync": true,
   "canvas": true,
   "properties": false,
   "bookmarks": true
