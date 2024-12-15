@@ -1,4 +1,4 @@
-# Enter the Fray
+# Enter the Fray (ETF)
 
 **When you initiate combat or are forced into a fight**, envision your objective and give it a rank. If the combat includes discrete challenges or phases, set an objective with a rank for each.
 

@@ -346,7 +346,7 @@ __
 getmovename {move initials} - A helper function to get the full name of a move or the markdown of the full move.  IMPORTANT: Single word moves use the full word rather than the initials.
 
 __
-^move ([a-zA-Z]*) ([_a-zA-Z]*) ([0-9]*) ?([_a-zA-Z0-9]*)$
+^move ([a-zA-Z]*) ([_a-zA-Z]*) ([-0-9]*) ?([_a-zA-Z0-9]*)$
 __
 ```js
 var characterFile = "Character_File_Name_Here";

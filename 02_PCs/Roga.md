@@ -1,5 +1,5 @@
 ---
-Name: Del Elsh 'Gambit'
+Name: Roga Danar 'Kilo'
 Edge: 3
 Force: 2
 Heart: 1
@@ -7,9 +7,9 @@ Iron: 2
 Shadow: 2
 Wits: 2
 Health: 5
-Spirit: 5
+Spirit: 3
 Supply: 5
-Momentum: 2
+Momentum: 6
 Wealth: 0
 Wounded: ⬡
 Shaken: ⬡
@@ -122,3 +122,5 @@ However, Roga's path diverged at the beginning of the Clone Wars, when he was se
 Roga's dual training allowed him to excel in both conventional and covert operations, making him a versatile and invaluable asset. Despite the secrecy surrounding his black ops missions, Roga remained fiercely loyal to his mentors and the Jedi Order, often grappling with the internal conflict between his covert duties and the Jedi Code.
 
 The issuance of Order 66 forced Roga into hiding, changing his name to Dellum Elsh. He struggles to reconcile his past with the new reality of a galaxy without the Jedi Order. His skills in disguise and deception have kept him safe, but the weight of his secretive past continues to haunt him as he navigates a world where the Jedi are hunted and hope is scarce.
+
+---

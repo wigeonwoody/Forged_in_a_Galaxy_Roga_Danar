@@ -5,7 +5,7 @@
   ],
   "interfaceFontFamily": "Noto Sans",
   "textFontFamily": "",
-  "theme": "obsidian",
+  "theme": "system",
   "baseFontSize": 15,
   "cssTheme": "ITS Theme"
 }
