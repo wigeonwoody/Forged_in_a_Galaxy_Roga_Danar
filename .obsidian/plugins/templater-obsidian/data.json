@@ -1,0 +1,58 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "80_Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "40_Mechanics/Progress",
+      "template": "80_Templates/Progress_Template.md"
+    },
+    {
+      "folder": "02_PCs",
+      "template": "80_Templates/Character_Template.md"
+    },
+    {
+      "folder": "40_Mechanics/Clocks",
+      "template": "80_Templates/Clocks_Template.md"
+    },
+    {
+      "folder": "04_NPCs",
+      "template": "80_Templates/NPCs_Template.md"
+    },
+    {
+      "folder": "40_Mechanics/Moves",
+      "template": "80_Templates/Moves_Template.md"
+    },
+    {
+      "folder": "40_Mechanics/Assets",
+      "template": "80_Templates/Asset_Template.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

@@ -1,0 +1,131 @@
+{
+  "version": "0.24.12",
+  "prefix": ";;",
+  "suffix": "::",
+  "expansionPrefix": "",
+  "expansionLinePrefix": "> ",
+  "expansionSuffix": "\\n\\n",
+  "autocomplete": true,
+  "autocompleteHelp": true,
+  "devMode": false,
+  "allowExternal": false,
+  "shortcutFiles": [
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/state.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/lists.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/notevars.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/notepick.sfile.md"
+    },
+    {
+      "enabled": false,
+      "address": "99_Meta/Scripts/mythicv2.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/mythicgme.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/une.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/adventurecrafter.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/cards.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/tablefiles.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/rpgtools.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/plugin_diceroller.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/files.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/clips.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/arrows.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/lipsum.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/lists_ui.sfile.md"
+    },
+    {
+      "enabled": false,
+      "address": "99_Meta/Scripts/mythicv2_ui.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/mythicgme_ui.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/une_ui.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/cards_pileviewer.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/cards_ui.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/clips_ui.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/system.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/starforged_moves.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/starforged_oracles.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/starforged_progress.sfile.md"
+    },
+    {
+      "enabled": true,
+      "address": "99_Meta/Scripts/starforged_stats.sfile.md"
+    }
+  ],
+  "shortcuts": "",
+  "buttonView": {
+    "visible": true,
+    "groups": {}
+  }
+}
